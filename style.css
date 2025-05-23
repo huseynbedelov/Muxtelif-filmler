@@ -4,28 +4,17 @@
     box-sizing: border-box;
     font-family: Arial, Helvetica, sans-serif;
 }
-
-h1{
-    text-align: center;
-}
-
-div{
-    width: 90vw;
-    padding: 20px;
-    margin: 5px auto;
-    font-size: 20px;
-}
-
+    body{
+        background-color: rgb(2, 2, 48);
+    }
 img{
-    width: 400px;
+    width: 15vw;
+    margin: 20px;
+    
+    border-width: 50px solid;
+    
 }
-
-#film p{
-    float: right;
-    width: 50vw;
-    margin-top: 40px;
-}
-
-body{
-    background-color: rgb(131, 139, 206);
+#squid{
+    text-align: center;
+    
 }
